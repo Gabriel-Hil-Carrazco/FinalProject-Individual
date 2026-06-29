@@ -1,7 +1,6 @@
 # Guia Paso a Paso
 
-## Primera Parte
-### CREO REPOSITORIO Y PEGO UN ARCHIVO
+## I) Nuevo Repositorio
 	
 1- creé el repositorio desde github
 2- git clone FinalProject-Individual
@@ -11,7 +10,7 @@
 6- git push
 7- Añadí de colaboradora a 'paobtorres'
 
-# CREO RAMAS (para el merge)
+## II ) Creacion de Ramas (uso en git merge)
 		
 8- git checkout -b rama_uno
 9- touch archivo.txt
