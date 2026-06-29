@@ -1,8 +1,7 @@
 # Guia Paso a Paso
 
-## Primera Parte
-### CREO REPOSITORIO Y PEGO UN ARCHIVO
-	
+## Etapa I de creacion de repositorio
+
 1- creé el repositorio desde github
 2- git clone FinalProject-Individual
 3- touch prueba.py
@@ -11,7 +10,7 @@
 6- git push
 7- Añadí de colaboradora a 'paobtorres'
 
-# CREO RAMAS (para el merge)
+## Etapa II:  Branch (ramas para el merge)
 		
 8- git checkout -b rama_uno
 9- touch archivo.txt
