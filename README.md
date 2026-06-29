@@ -1,4 +1,6 @@
-		# CREO REPOSITORIO Y PEGO UN ARCHIVO
+# Guia Paso a Paso
+
+## CREO REPOSITORIO Y PEGO UN ARCHIVO
 		
 1- creé el repositorio desde github
 2- git clone FinalProject-Individual
